@@ -1,0 +1,10 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanMedium.ttf"); font-family : "Mulish"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanSemiBold.ttf"); font-family : "Mulish"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanExtraBold.ttf"); font-family : "Mulish"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanRegular.ttf"); font-family : "Mulish"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanBold.ttf"); font-family : "Mulish"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LibreFranklinRomanRegular.ttf"); font-family : "Libre Franklin"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LibreFranklinRomanSemiBold.ttf"); font-family : "Libre Franklin"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/LibreFranklinRomanMedium.ttf"); font-family : "Libre Franklin"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanLight.ttf"); font-family : "Mulish"; font-weight : 300;  }
